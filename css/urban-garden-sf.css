@@ -1,0 +1,9 @@
+body {
+  padding-top: 50px;
+}
+
+.footer {
+	padding-top: 100px;
+	background-color: black;
+	/*background-image: url(http://www.sfgro.org/corona/images/corona3.jpg);*/
+}
